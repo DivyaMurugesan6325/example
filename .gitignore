@@ -1,0 +1,5 @@
+node_modules
+seeders
+package-lock.json
+package.json
+migrations
